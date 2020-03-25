@@ -1,0 +1,9 @@
+.blue{
+    position: absolute;
+    top: -0.85em;
+    color: #0018FF;
+    font-size: 0.5em;
+}
+span{
+    position: relative;
+}
