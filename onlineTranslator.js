@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         onlineTranlator
 // @namespace    http://0.0.0.0/
-// @version      0.1
+// @version      0.2
 // @description  注释生物学相关用词
 // @author       Icedragon
 // @match        https://www.ncbi.nlm.nih.gov/pubmed/*
