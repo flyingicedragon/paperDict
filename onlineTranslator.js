@@ -9,6 +9,7 @@
 // @exclude      https://www.ncbi.nlm.nih.gov/pubmed/?term*
 // @match        https://www.nature.com/articles/*
 // @match        https://www.ncbi.nlm.nih.gov/pmc/articles/*
+// @match        https://genomebiology.biomedcentral.com/articles/*
 // @grant        none
 // ==/UserScript==
 
