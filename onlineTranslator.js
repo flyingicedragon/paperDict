@@ -8,6 +8,7 @@
 // @match        file:///home/icedragon/Documents/Zotero/HTML/*
 // @exclude      https://www.ncbi.nlm.nih.gov/pubmed/?term*
 // @match        https://www.nature.com/articles/*
+// @match        https://www.ncbi.nlm.nih.gov/pmc/articles/*
 // @grant        none
 // ==/UserScript==
 
