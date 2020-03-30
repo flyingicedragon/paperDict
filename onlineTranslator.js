@@ -10,6 +10,7 @@
 // @match        https://www.nature.com/articles/*
 // @match        https://www.ncbi.nlm.nih.gov/pmc/articles/*
 // @match        https://genomebiology.biomedcentral.com/articles/*
+// @match        http://www.plantcell.org/content/*
 // @grant        none
 // ==/UserScript==
 
