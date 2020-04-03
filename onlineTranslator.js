@@ -5,7 +5,7 @@
 // @description  在线阅读文献时，注释生物学相关用词。
 // @author       Icedragon
 // @match        https://www.ncbi.nlm.nih.gov/pubmed/*
-// @match        file:///home/icedragon/Documents/文献/Zotero/HTML/*
+// @match        file:///media/icedragon/Data/*/Documents/Zotero/*
 // @exclude      https://www.ncbi.nlm.nih.gov/pubmed/?term*
 // @match        https://www.nature.com/articles/*
 // @match        https://www.ncbi.nlm.nih.gov/pmc/articles/*
