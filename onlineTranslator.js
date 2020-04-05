@@ -12,6 +12,7 @@
 // @match        https://genomebiology.biomedcentral.com/articles/*
 // @match        http://www.plantcell.org/content/*
 // @match        https://www.sciencedirect.com/science/article/*
+// @match        https://microbiomejournal.biomedcentral.com/articles/*
 // @grant        none
 // ==/UserScript==
 
