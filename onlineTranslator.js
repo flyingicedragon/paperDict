@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name         onlineTranlator
 // @namespace    http://0.0.0.0/
-// @version      0.7.5
+// @version      0.8.0
 // @description  在线阅读文献时，注释生物学相关用词。
 // @author       Icedragon
-// @resource     bioDict.json https://gitee.com/flyingicedragon/paperDict/raw/master/bioDict.json
 // @match        https://www.ncbi.nlm.nih.gov/pubmed/*
 // @match        file:///home/icedragon/Documents/Zotero/*
 // @exclude      https://www.ncbi.nlm.nih.gov/pubmed/?term*
@@ -15,7 +14,8 @@
 // @match        https://www.sciencedirect.com/science/article/*
 // @match        https://microbiomejournal.biomedcentral.com/articles/*
 // @match        https://onlinelibrary.wiley.com/doi/full/*
-// @grant        none
+// @resource     bioDict.json https://gitee.com/flyingicedragon/paperDict/raw/master/bioDict.json
+// @grant        GM_getResourceText
 // ==/UserScript==
 
 (function(){
