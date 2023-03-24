@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         onlineTranlator
 // @namespace    http://0.0.0.0/
-// @version      0.8.3
+// @version      0.8.4
 // @description  在线阅读文献时，注释生物学相关用词。
 // @author       Icedragon
 // @match        https://www.ncbi.nlm.nih.gov/pubmed/*
@@ -79,7 +79,9 @@
 		GM_setValue('paperdict_dict', dictStr)
 	}
 
-	let buttonEle = document.createElement('input')
+	let buttonEle
+
+	buttonEle = document.createElement('input')
 	buttonEle.type = 'button'
 	buttonEle.value = '翻译'
 	buttonEle.onclick = start
@@ -90,7 +92,7 @@
 	buttonEle.style.width = '60px'
 	document.body.appendChild(buttonEle)
 
-	let buttonEle=document.createElement('input')
+	buttonEle=document.createElement('input')
 	buttonEle.type = 'button'
 	buttonEle.value = '更新'
 	buttonEle.onclick = update_dict
