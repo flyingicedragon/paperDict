@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         onlineTranlator
 // @namespace    http://0.0.0.0/
-// @version      0.8.4
+// @version      0.8.5
 // @description  在线阅读文献时，注释生物学相关用词。
 // @author       Icedragon
 // @match        https://www.ncbi.nlm.nih.gov/pubmed/*
@@ -14,6 +14,7 @@
 // @match        https://www.sciencedirect.com/science/article/*
 // @match        https://microbiomejournal.biomedcentral.com/articles/*
 // @match        https://onlinelibrary.wiley.com/doi/full/*
+// @match        https://www.cell.com/cell/fulltext/*
 // @resource     bioDict.json https://github.com/flyingicedragon/paperDict/raw/master/bioDict.min.json
 // @grant        GM_getResourceText
 // @grant        GM_setValue
@@ -77,6 +78,7 @@
 		console.log('更新词库')
 		const dictStr = GM_getResourceText('bioDict.json')
 		GM_setValue('paperdict_dict', dictStr)
+		console.log('更新完成')
 	}
 
 	let buttonEle

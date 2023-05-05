@@ -5,7 +5,6 @@
     "a band": "A带",
     "a chromosome": "A染色体[二倍体染色体组中的正常染色体（不同于B染色体）]",
     "a site": "[核糖体]A部位",
-    "a 型 dna": "A-form DNA",
     "a-form dna": "A 型 DNA",
     "aba 脱落酸": "ABA 脱落酸",
     "abasic site": "脱碱基位点，无碱基位点",
@@ -1210,7 +1209,6 @@
     "ara operon": "阿（拉伯）糖操纵子",
     "araban": "阿拉伯聚糖",
     "arabidopis thaliana": "拟南芥[v植物学名]",
-    "arabidopsis": "拟南芥",
     "arabinogalactan": "阿拉伯半乳聚糖",
     "arabinose": "阿拉伯糖",
     "arachidic acid": "花生酸，二十（烷）酸",
@@ -3405,7 +3403,6 @@
     "cocrystallization": "共结晶",
     "cocultivation": "共培养，协同培养",
     "coculture": "共培养物，共培养",
-    "code": "密码",
     "code degeneracy": "密码简并",
     "code of folding": "折叠密码[指决定折叠方式的要素]",
     "codecontamination": "共去污",
@@ -6445,7 +6442,6 @@
     "genbank nucleotide sequence database": "GenBank核酸序列资料库",
     "gender determination": "性别决定",
     "gender difference": "性别差异",
-    "gene": "基因",
     "gene amplification": "基因扩增",
     "gene bank": "基因库",
     "gene flow": "基因流[一个随机交配群体，由于合子或配子的散布而造成基因流动，从而引起等位基因频率的改变]",
@@ -7324,7 +7320,6 @@
     "intranuclear spindle": "核内纺锤体\n见于原生动物。",
     "intricate": "错综复杂",
     "intrinsic": "固有的, 内在的, 本质的",
-    "intron": "内含子",
     "inulin": "菊粉，菊糖",
     "invagination": "内陷",
     "invasin": "侵染素",
@@ -11317,5 +11312,6 @@
     "proton": "质子",
     "elite": "精英的",
     "integrity": "完整",
-    "centromeres": "着丝粒 染色体上的一段非编码的DNA，对动粒(或动粒蛋白）有组织和整合作用。"
+    "centromeres": "着丝粒 染色体上的一段非编码的DNA，对动粒(或动粒蛋白）有组织和整合作用。",
+    "sorghum": "高粱"
 }
